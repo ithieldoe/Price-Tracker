@@ -2,7 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import smtplib
-
+# wwwww
 buying_price = 3000
 
 # Scraping the page for price and title
